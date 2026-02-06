@@ -257,13 +257,12 @@ const DincharyaApp = () => {
   const gitaVerse = gitaVerses[currentVerseIndex];
 
   const radhanathVideos = [
-    { id: "jO47JYkk8gY", title: "The Art of Compassion and Love" },
-    { id: "5fV_jJhK3fM", title: "The Power of Gratitude" },
-    { id: "Bc5gwqUxhFQ", title: "Finding Inner Peace" },
-    { id: "kE2h48oVhBo", title: "Service: The Essence of Love" },
-    { id: "vT6Pe5YG4YE", title: "Bhakti Yoga - Path of Devotion" },
-    { id: "N9bfNU5LSOI", title: "Humility: Foundation of Spiritual Life" },
-    { id: "w8KdC-9WzJk", title: "Devotion and Surrender" }
+    { id: "wCTLwz8Ksqs", title: "Daily Wisdom from Radhanath Swami" },
+    { id: "PnqvzndlFJg", title: "Spiritual Guidance for Life" },
+    { id: "O6ShVAhioms", title: "Path of Devotion and Service" },
+    { id: "JEuTCOGab9E", title: "Finding Inner Peace" },
+    { id: "wOrzPACLMEI", title: "The Journey of Consciousness" },
+    { id: "j2SiHAazUuM", title: "Cultivating Gratitude and Love" }
   ];
 
   const getDailyVideoIndex = () => {
